@@ -49,7 +49,7 @@ const Footer = () => (
         <ul className="space-y-3 text-sm text-muted-foreground">
           <li className="flex items-start gap-2"><MapPin className="h-4 w-4 mt-0.5 text-primary" /> 1200 Tech Avenue, Suite 400, San Francisco, CA</li>
           <li className="flex items-center gap-2"><Phone className="h-4 w-4 text-primary" /> +1 (415) 555-0199</li>
-          <li className="flex items-center gap-2"><Mail className="h-4 w-4 text-primary" /> hello@globalit.com</li>
+          <li className="flex items-center gap-2"><Mail className="h-4 w-4 text-primary" /> support@globalinnovationtechnology.org</li>
         </ul>
       </div>
     </div>

@@ -28,7 +28,7 @@ const Contact = () => {
           {[
             { icon: MapPin, title: "Visit us", text: "1200 Tech Avenue, Suite 400\nSan Francisco, CA 94107" },
             { icon: Phone, title: "Call us", text: "+1 (415) 555-0199\nMon–Fri, 9am–6pm PT" },
-            { icon: Mail, title: "Email us", text: "hello@globalit.com\ncareers@globalit.com" },
+            { icon: Mail, title: "Email us", text: "support@globalinnovationtechnology.org\ncareers@support@globalinnovationtechnology.org" },
           ].map(({ icon: Icon, title, text }) => (
             <div key={title} className="gradient-card border border-border rounded-xl p-6">
               <Icon className="h-7 w-7 text-primary mb-3" />
